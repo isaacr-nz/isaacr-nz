@@ -9,7 +9,4 @@ I'm a web developer currently living in Dunedin, NZ
 ## 🌱 I’m currently learning ...
  - Vue (personal interest)
  - React Native (for cross platform apps)
-## 📫 How to reach me ...
-Email: isaacjross@live.com
-Ph: 02108757087
 
